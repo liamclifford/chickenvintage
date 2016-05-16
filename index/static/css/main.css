@@ -1,0 +1,45 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	display: block;
+	background-color: none;
+	text-align: center;
+}
+html { 
+	background-color: #ebebe0;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.original_title{
+	display: none;
+}
+.outer{
+	display: none;
+}
+
+.title{
+	font-family: 'Droid Serif', serif;
+	line-height: px;
+	padding: 20px;
+	font-size: 50px;
+	font-weight: lighter;
+	color: #a6a6a6;
+	text-shadow: 2px 2px #ffffff;
+	display: ;
+}
+.front_logo{
+	position: relative;
+	left: 100px;
+	top: 100px;
+	display: inline-block;
+}
+.main_container{
+	width: 970px;
+	height: 100%;
+	align-self: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: inherit;
+}
